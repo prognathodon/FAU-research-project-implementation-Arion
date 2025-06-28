@@ -1,0 +1,12 @@
+﻿,Slope value,P value,R squared
+Total missing character proportion per dataset ~ Median missing character proportion per taxon,0.8112148,2.20E-16,0.8761991
+Total missing character proportion per dataset ~ Clade origination age,-2.21E-04,0.0003796,0.249019
+Median missing character proportion per taxon ~ Clade origination age,-1.39E-04,0.01129,0.1606388
+Total missing character proportion per dataset ~ Character number,8.22E-04,2.20E-16,0.4235345
+Median missing character proportion per taxon ~ Character number,9.70E-04,2.20E-16,0.4344301
+Total missing character proportion per dataset ~ Number of phylogenetic studies,2.29E-04,0.0005498,0.2208605
+Median missing character proportion per taxon ~ Number of phylogenetic studies,2.75E-04,5.62E-05,0.2617157
+Total missing character proportion per dataset ~ the year of the oldest phylogenetic study,-0.00074498,0.7227,0.00281846
+Median missing character proportion per taxon ~ the year of the oldest phylogenetic study,-0.00031017,0.8634,0.000546784
+Number of taxa ~ Node age,-0.00046296,0.0003748,0.197757
+Number of character ~ Node age,-0.093617,0.001907,0.1982768
